@@ -1,0 +1,26 @@
+button{
+    color: red;
+    background-color: green;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.register{
+    color: blue;
+    background-color: purple;
+}
+
+.login{
+    color: yellow;
+    background-color: grey;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
